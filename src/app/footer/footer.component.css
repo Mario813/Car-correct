@@ -1,0 +1,31 @@
+#footer{
+    background-color: black;
+    color: white;
+  }
+  
+  #footer h2{
+    padding-top: 20%;
+  }
+  
+  #footer p{
+    padding-top: 20%;
+  }
+  .li1{
+    padding: 10%;
+    
+  }
+  
+  #link{
+    color: white;
+    text-decoration-line:none;
+  }
+  
+  .li2{
+    padding: 5%;
+    
+  }
+  
+  #link:hover{
+    color: red;
+  }
+  
